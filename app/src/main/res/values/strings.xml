@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ping Pong X</string>
+    <string name="labell_start_game">Começar a partida</string>
+    <string name="label_fill_fields">Preencha os campos</string>
+    <string name="label_developer">Desenvolvido por Renato Brito</string>
+    <string name="button_start_game">Começar</string>
+</resources>
